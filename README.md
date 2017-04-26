@@ -1,6 +1,6 @@
 # npmdoc-clipboard-js
 
-#### api documentation for  [clipboard-js (v0.3.3)](https://github.com/lgarron/clipboard.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-clipboard-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-clipboard-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-clipboard-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-clipboard-js)
+#### basic api documentation for  [clipboard-js (v0.3.3)](https://github.com/lgarron/clipboard.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-clipboard-js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-clipboard-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-clipboard-js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-clipboard-js)
 
 #### A web shim to handle clipboard APIs across browsers using a simple Promise API.
 
@@ -62,7 +62,8 @@
         "url": "git+https://github.com/lgarron/clipboard.js.git"
     },
     "scripts": {},
-    "version": "0.3.3"
+    "version": "0.3.3",
+    "bin": {}
 }
 ```
 
